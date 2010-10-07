@@ -408,7 +408,7 @@ int main(int argc, char** argv)
 				
 		// commentaar etc overslaan
 		// regels met % ongewijzigd overnemen (zonder %)
-		if(line[0] == '!' || line[0] == '*' || line[0] == '=' || line[0]=='%')
+		if(line[0] == '!' || line[0] == '*' || line[0] == '=' || line[0]=='%' || line[0]=='.')
 		{
 			if(line[0]=='%')
 			{
