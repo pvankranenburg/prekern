@@ -1,6 +1,6 @@
 # prekern
 
-prekern was written to assist with the encoding of musical scores into **kern files. It's a preprocessor for **kern. It adds some context-dependency to the symbols. prekern takes a file with a single spine in context-dependent notation as input and outputs a file with the spine in **kern format.
+prekern was written to assist with the encoding of musical scores into **kern encoding. It's a preprocessor for **kern. It adds context-dependency to the symbols. prekern takes a file with a single spine in context-dependent notation as input and outputs a file with the spine in **kern format.
 
 prekern translates line by line into **kern format. The information that is not explicitly entered is "inherited" from the previous line.
 
