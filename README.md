@@ -17,7 +17,8 @@ The following rules apply:
 
 An example to make things clear:
 
-```input: example.pk    output: example.krn
+```
+input: example.pk    output: example.krn
 
 **prekern            **kern
 *MM76                *MM76
